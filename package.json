@@ -1,0 +1,27 @@
+{
+  "name": "restapi_pelayanan_gereja",
+  "version": "1.0.0",
+  "description": "Belajar Membuat RestAPI",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charleslasut/restAPI_pelayananGereja.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "cors",
+    "mysql",
+    "nodemon",
+    "body-parser"
+  ],
+  "author": "ImanuelLasut_",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charleslasut/restAPI_pelayananGereja/issues"
+  },
+  "homepage": "https://github.com/charleslasut/restAPI_pelayananGereja#readme"
+}
